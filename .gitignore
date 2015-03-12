@@ -1,0 +1,10 @@
+#IDEA IntelliJ config files
+.idea/
+*.iml
+
+#maven target directories
+target/
+
+#build directory
+build/
+out
